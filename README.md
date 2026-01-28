@@ -1,6 +1,3 @@
-# DSA-Questions-Python-
-A structured collection of Data Structures and Algorithms problems solved with clean code, explanations, and time/space complexity analysis.
-
 # 🧠 Data Structures & Algorithms Practice (Python)
 
 This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems, implemented in **Python**.  
